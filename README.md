@@ -50,7 +50,7 @@ Once the bot is running and added to your Telegram group, it will automatically 
 
 ## Contributors
 
-- [Force-Subscribe-Bot-for-Telegram)https://github.com/Mustkeem324/Force-Subscribe-Bot-for-Telegram)
+- [Force-Subscribe-Bot-for-Telegram)(https://github.com/Mustkeem324/Force-Subscribe-Bot-for-Telegram)
 
 ## License
 
